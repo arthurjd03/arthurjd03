@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Arthur José!
 
-<!--
-**arthurjd03/arthurjd03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Web** apaixonado por criar soluções práticas e eficientes com JavaScript e TypeScript.  
+🚀 Sempre em busca de aprender novas tecnologias e evoluir como desenvolvedor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔭 Atualmente estudando e aprimorando minhas habilidades em **Node.js** e **Express**  
+- 🌱 Em desenvolvimento **Full Stack** e boas práticas de código  
+- ⚡ Fato curioso: adoro resolver desafios de programação e explorar novas ferramentas!
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+
+### 🧰 Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=fff)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/SEU_PERFIL)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:SEU_EMAIL@gmail.com)
