@@ -38,4 +38,4 @@
 ## 🌍 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](linkedin.com/in/arthurjose01)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)]arthurjosed01@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](arthurjosed01@gmail.com)
